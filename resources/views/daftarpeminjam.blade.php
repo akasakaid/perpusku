@@ -50,7 +50,7 @@
             <div class="page-breadcrumb">
                 <div class="row align-items-center">
                     <div class="col-md-6 col-8 align-self-center">
-                        <h3 class="page-title mb-0 p-0">Daftar Peminjam</h3>
+                        <h3 class="page-title mb-0 p-0">Daftar-Peminjam</h3>
                         <div class="d-flex align-items-center">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
@@ -72,7 +72,6 @@
                 <!-- ============================================================== -->
                 <!-- Start Page Content -->
                 <!-- ============================================================== -->
-
                 <div class="row">
                     <!-- column -->
                     <div class="col-sm-12">
@@ -93,7 +92,7 @@
                                                 <th class="border-top-0">Denda</th>
                                                 <th class="border-top-0">Status</th>
                                                 <!-- <th class="border-top-0">Status</th> -->
-                                                <!-- <th class="border-top-0">Action</th> -->
+                                                <th class="border-top-0">Action</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -157,7 +156,7 @@
             <!-- ============================================================== -->
             <!-- footer -->
             <!-- ============================================================== -->
-            <footer class="footer"> © 2022 Kelompok  <a href="https://www.wrappixel.com/">1 </a>
+            <footer class="footer"> © 2022 Kelompok  <a href="#">1 </a>
             </footer>
             <!-- ============================================================== -->
             <!-- End footer -->

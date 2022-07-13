@@ -50,12 +50,12 @@
             <div class="page-breadcrumb">
                 <div class="row align-items-center">
                     <div class="col-md-6 col-8 align-self-center">
-                        <h3 class="page-title mb-0 p-0">Dashboard</h3>
+                        <h3 class="page-title mb-0 p-0">Add-Peminjam</h3>
                         <div class="d-flex align-items-center">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Add-Peminjam</li>
                                 </ol>
                             </nav>
                         </div>
@@ -151,7 +151,7 @@
             <!-- ============================================================== -->
             <!-- footer -->
             <!-- ============================================================== -->
-            <footer class="footer"> © 2022 Kelompok  <a href="https://www.wrappixel.com/">1 </a>
+            <footer class="footer"> © 2022 Kelompok  <a href="#">1 </a>
             </footer>
             <!-- ============================================================== -->
             <!-- End footer -->

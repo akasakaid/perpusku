@@ -73,7 +73,7 @@
         <form action="/login" method="POST" class="mt-5">
             @csrf
             <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
-            <div class="form-floating">
+            <div class="form-floating mt-3">
                 <input type="email" class="form-control @error('email') is-invalid @enderror" id="floatingInput" placeholder="name@example.com" name="email" value="{{ old('email')}}" autofocus required>
                 <label for="floatingInput">Email address</label>
                 @error('email')
@@ -82,7 +82,7 @@
                     </div>
                 @enderror
             </div>
-            <div class="form-floating">
+            <div class="form-floating mt-3">
                 <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password">
                 <label for="floatingPassword">Password</label>
             </div>
